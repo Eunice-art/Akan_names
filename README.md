@@ -1,4 +1,4 @@
-#### Eunice-art.github.io
+####
 ##### Akan Naes
 
 ##### *Project Description*
