@@ -1,4 +1,4 @@
-#### Eunice-art.github.io
+#### https://eunice-art.github.io/Akan_names/
 ##### Akan Naes
 
 ##### *Project Description*
