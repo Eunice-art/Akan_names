@@ -49,6 +49,7 @@ Saturday: Ama
   
 
 ###### *setup and Installation*
+Clone this project or,  
 To install the above project in your computer install VSC and run the code, modifying it to your needs.
 
 ###### *Licence and Contact Information*
